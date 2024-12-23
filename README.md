@@ -1,4 +1,4 @@
-# mulesoft-apps-downloader
+# MuleSoft Cloudhub 1.0 Jar Downloader
 
 A Python script to download all applications from Mulesoft Anypoint Platform.
 
